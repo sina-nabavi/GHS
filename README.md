@@ -9,4 +9,4 @@ This is a project developed in Distributed Systems course at University of Tehra
 Notes
 -----
 
-In order to build the project use an IDE like InteliJ and see the output text file. You will have to delete the MST file in order to run application again so that the output remain correct.
+In order to build the project use an IDE like InteliJ and build it with maven and see the output text file. You will have to delete the MST file in order to run application again so that the output remain correct.
